@@ -5,4 +5,5 @@ export const genericMessage = {
     successMessageInscription: 'Votre inscription a bien été prise en compte, vous allez être redirigé vers la page de connexion',
     successMessageContact: 'Votre message a bien été envoyé, vous allez être redirigé vers la page mon compte',
     errorSamePassword : 'Veuillez reconfirmer votre mot de passe',
+    successMessageAddedSite : `Votre site a bien été enregistré dans la base de donnée`
 }
