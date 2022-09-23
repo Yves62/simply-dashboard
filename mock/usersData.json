@@ -1,0 +1,19 @@
+[{
+    "id": 1,
+    "name":"Doe",
+    "firstname":"John",
+    "email": "test@test.com",
+    "phoneNumber" : 1122334455,
+    "password": "test",
+    "idVeictor": "2139345"
+},
+{
+    "id": 2,
+    "name":"test",
+    "firstname":"user",
+    "email": "user@test.com",
+    "phoneNumber" : 1122334455,
+    "password": "user",
+    "idVeictor": "2200000"
+}
+]

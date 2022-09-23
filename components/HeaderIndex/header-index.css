@@ -1,0 +1,15 @@
+.container-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.container-header img{
+    width: 150px;
+    height: 150px;
+}
+.container-header h1{
+    border-left: 4px solid blue;
+    padding-left: 10px;
+}
+
